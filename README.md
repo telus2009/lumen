@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/Yu9191/wloc/refs/heads/main/modules/wloc.conf
 **Loon:**
 https://raw.githubusercontent.com/Yu9191/wloc/refs/heads/main/modules/wloc.lpx
 
-> Stash 可直接使用 Surge 模块
+> Egern 可直接使用 Surge 模块
 
 ---
 
