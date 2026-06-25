@@ -19,7 +19,24 @@ https://raw.githubusercontent.com/Yu9191/wloc/refs/heads/main/modules/wloc.conf
 **Loon:**
 https://raw.githubusercontent.com/Yu9191/wloc/refs/heads/main/modules/wloc.lpx
 
+**Stash:**
+https://raw.githubusercontent.com/Yu9191/wloc/refs/heads/main/modules/wloc.stoverride
+
 > Egern 可直接使用 Surge 模块
+> Stash 请直接订阅上面的 `.stoverride`，无需用 Script Hub 转换
+
+---
+
+## 快捷指令（推荐，最方便）
+
+直接用快捷指令切换 / 清除定位，无需打开选点页面：
+
+- **wloc 设置地理位置**：https://www.icloud.com/shortcuts/a57f1d9b915542f19cd9c31572cbe9ff
+- **wloc 清理恢复位置**：https://www.icloud.com/shortcuts/8bb3231a974b4a0c8def89a556be001c
+
+**用法：** 在地图 App（Apple 地图 / 高德）里选好位置 → 分享 → 选「wloc 设置地理位置」即可切换；点「wloc 清理恢复位置」恢复真实定位。支持 Apple Maps、高德（含短链，自动跟跳转 + GCJ-02→WGS84 坐标换算）。
+
+> 前提：代理已开 + 模块已启用 + 信任 `gs-loc.apple.com`。选点页面（Worker / Pages）方案仍保留，见下方。
 
 ---
 
